@@ -1,7 +1,7 @@
 Below is a brief description of each Python file in our repository.
 1. data_preprocessing.py — Loads and preprocesses the MovieLens dataset and builds graph/user–item structures.
 
-2. eval.py — Simulate the online interactions between users and recommender under all environments.
+2. eval.py — Simulate the online interactions between users and recommender under all environments. Then, evalaute the online performance of each model.
 
 3. lightgcn.py — Implements the LightGCN graph-based collaborative filtering model.
 
